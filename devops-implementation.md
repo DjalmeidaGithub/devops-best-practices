@@ -1,4 +1,4 @@
-# Agile, DevOps, and DevSecOps: What They Mean for Teams and Companies
+# Agile, DevOps, and DevSecOps
 
 
 Let me break down Agile, DevOps, and DevSecOps in a simple way — imagine a modern factory where engineers have the right tools and space to work both independently and together. 
